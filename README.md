@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%2FML%20Explorer&descAlignY=54&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+ML+Pipelines+that+matter+%F0%9F%A4%96;From+raw+data+to+production-grade+intelligence+%F0%9F%9A%80;NLP+%7C+Time+Series+%7C+Explainable+AI+%7C+RAG+%E2%9C%A8;Turning+noise+into+signal%2C+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&lines=Building+ML+Pipelines+that+matter+%F0%9F%A4%96;From+raw+data+to+production-grade+intelligence+%F0%9F%9A%80;NLP+%7C+Time+Series+%7C+Explainable+AI+%7C+RAG+%E2%9C%A8;Turning+noise+into+signal%2C+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
 
 <br/>
 
