@@ -20,7 +20,7 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3bHFldXg2dWZhcm94eXB3NzU4MDF3ZnZhYXBjZjM4YmloOWU3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhiNHVnaHR5dGNqZmo4NHJ3NHFyNmU5cnM3aGdxNm91NXd5b3hpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## 👩‍💻 About Me
 
@@ -116,7 +116,7 @@ shruti = {
 <!-- Projects -->
 ## 🚀 Featured Projects
 
-<img align="right" alt="AI GIF" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxd3NtaWttN3hqcHRjaXhqcHM0cXFzdHMycnZrbzhjOHQwdXZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+<!-- <img align="right" alt="AI GIF" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxd3NtaWttN3hqcHRjaXhqcHM0cXFzdHMycnZrbzhjOHQwdXZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/> -->
 
 ### 🩺 Multimodal RAG Pipeline for Radiology Report Generation
 > *Automated chest X-ray report generation using retrieval-augmented generation*
