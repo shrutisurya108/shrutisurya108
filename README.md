@@ -30,7 +30,7 @@ shruti = {
     "education"  : "M.S. Computer Science @ University at Buffalo",
     "experience" : "2.5+ years in enterprise ML",
     "focus"      : ["Predictive Modeling", "NLP", "RAG",
-                    "Time-Series Forecasting", "XAI"],
+                    "Time-Series Forecasting", "XAI", "LLMs"],
     "superpower" : "End-to-end ML pipelines at scale 🚀",
     "status"     : "Actively seeking Data / AI / ML roles 🎯"
 }
