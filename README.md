@@ -53,7 +53,7 @@ shruti = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti%20Kumari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutikumari108/)
 [![Gmail](https://img.shields.io/badge/Email-shrutikumari4876%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutikumari4876@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shrutikumari108-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutikumari108)
+[![GitHub](https://img.shields.io/badge/GitHub-shrutikumari108-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutisurya108)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://shrutisurya108.github.io)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20716%20232%200253-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+17162320253)
 
