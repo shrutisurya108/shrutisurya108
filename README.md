@@ -90,7 +90,7 @@ shruti = {
 
 <br/>
 
-<details>
+<details open>
 <summary><b>🔬 Hewlett Packard Enterprise — R&D Data Science Intern &nbsp;|&nbsp; Jan 2022 – Jul 2022</b></summary>
 
 <br/>
