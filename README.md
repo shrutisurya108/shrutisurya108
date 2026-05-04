@@ -23,7 +23,7 @@
 <img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhiNHVnaHR5dGNqZmo4NHJ3NHFyNmU5cnM3aGdxNm91NXd5b3hpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 ## 👩‍💻 About Me
 
-```python
+<pre>
 shruti = {
     "role"       : "Data Scientist | AI/ML Engineer",
     "education"  : "M.S. Computer Science @ University at Buffalo",
@@ -33,7 +33,7 @@ shruti = {
     "superpower" : "End-to-end ML pipelines at scale 🚀",
     "status"     : "Actively seeking Data / AI / ML roles 🎯"
 }
-```
+</pre>
 
 - 🔭 &nbsp;Built ML models reducing **downtime by 30%** and cutting **false positives by 50%** at HPE
 - 🧠 &nbsp;Passionate about **Explainable AI**, **RAG pipelines**, and **production-grade NLP**
