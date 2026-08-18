@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%2FML%20Explorer&descAlignY=54&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Data%20Science%20Explorer&descAlignY=54&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+ML+Pipelines+that+matter+%F0%9F%A4%96;From+raw+data+to+production-grade+intelligence+%F0%9F%9A%80;NLP+%7C+Time+Series+%7C+Explainable+AI+%7C+RAG+%E2%9C%A8;Turning+noise+into+signal%2C+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
@@ -25,21 +25,15 @@
 
 <pre>
 shruti = {
-    "role"       : "Data Scientist | AI/ML Engineer",
+    "role"       : "AI/ML Engineer",
     "education"  : "M.S. Computer Science @ University at Buffalo",
-    "experience" : "2.5+ years in enterprise ML",
+    "experience" : "~3 years in enterprise ML",
     "focus"      : ["Predictive Modeling", "NLP", "RAG",
                     "Time-Series Forecasting", "XAI", "LLMs"],
     "superpower" : "End-to-end ML pipelines at scale 🚀",
-    "status"     : "Actively seeking Data / AI / ML roles 🎯"
+    "status"     : "Actively seeking ML Engineer and AI Engineer roles 🎯"
 }
 </pre>
-
-- 🔭 &nbsp;Built ML models reducing **downtime by 30%** and cutting **false positives by 50%** at HPE
-- 🧠 &nbsp;Passionate about **Explainable AI**, **RAG pipelines**, and **production-grade NLP**
-- 📊 &nbsp;Love turning messy real-world data into clean, actionable intelligence
-- 🌱 &nbsp;Currently exploring **LLM fine-tuning**, **LangChain**, and **multi-agent systems**
-- 💡 &nbsp;Believer in models that are not just accurate, but *interpretable* and *deployable*
 
 <br clear="right"/>
 
@@ -62,17 +56,16 @@ shruti = {
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Hewlett Packard Enterprise — Software Engineer (Data Scientist) &nbsp;|&nbsp; Aug 2022 – Jul 2024</b></summary>
+<summary><b>🏢 Hewlett Packard Enterprise — Software Engineer (ML Engineer) &nbsp;|&nbsp; Aug 2022 – Jul 2024</b></summary>
 
 <br/>
 
-| Impact | Achievement |
-|--------|------------|
-| 🎯 **88% Precision** | Disk failure prediction using Random Forest & Gradient Boosting |
-| ⚡ **30% Less Downtime** | 40+ time-series features engineered from raw telemetry data |
-| 🔍 **25% Faster MTTD** | Predictive models integrated with REST APIs into production |
-| 🚨 **50% Fewer False Positives** | Anomaly detection via LSTM & Transformers on Kafka streams |
-| 🔧 **30% Faster MTTR** | Grafana dashboards on Kubernetes for real-time health monitoring |
+| **Work Experience** |
+|--------------------|
+| 🎯 Engineered 40+ time series features from server telemetry to predict disk failures on internal server fleets |
+| ⚡ Orchestrated daily feature engineering, retraining, and batch scoring pipelines with Databricks and MLflow |
+| 🔧 Trained LSTM autoencoder in PyTorch to reduce false positive alerts for unsupervised anomaly detection |
+| ⚡ Implemented MLflow based model versioning for pre-production evaluation with automated drift detection |
 
 **Key Technologies:**
 
@@ -83,7 +76,6 @@ shruti = {
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 </details>
@@ -91,15 +83,14 @@ shruti = {
 <br/>
 
 <details open>
-<summary><b>🔬 Hewlett Packard Enterprise — R&D Data Science Intern &nbsp;|&nbsp; Jan 2022 – Jul 2022</b></summary>
+<summary><b>🔬 Hewlett Packard Enterprise — R&D Intern &nbsp;|&nbsp; Jan 2022 – Jul 2022</b></summary>
 
 <br/>
 
-| Impact | Achievement |
-|--------|------------|
-| ✅ **85% Accuracy** | Bug prediction model integrated with Bugzilla across 100+ projects |
-| 🏷️ **25% Better Triage** | NLP feature extraction pipeline on unstructured bug reports |
-| ⚡ **70% Faster Matching** | Containerized prediction service with Docker for reproducible retraining |
+| Behind the Code |
+|--------------------|
+| Developed an NLP-based bug matching tool using scikit-learn and TF-IDF vectorization |
+| 🏷️ Designed a text preprocessing and feature engineering pipeline to **improve bug match accuracy by 25%** |
 
 **Key Technologies:**
 
@@ -240,23 +231,6 @@ shruti = {
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shrutisurya108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisurya108&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutisurya108&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
-
-</div>
-
----
-
 <!-- Quote -->
 ## 💬 Dev Mantra
 
@@ -270,15 +244,6 @@ shruti = {
 > 
 > — **Shruti Kumari**
 
-</div>
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutisurya108&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
