@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YOUR%20NAME&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Engineer&descAlignY=54&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Systems%20Engineer&descAlignY=54&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Python+backends+%26+REST+APIs+that+just+work+%E2%9A%99%EF%B8%8F;Distributed+storage+systems+at+enterprise+scale+%F0%9F%97%84%EF%B8%8F;CI%2FCD+%7C+AWS+%7C+Linux+%7C+LLM+Evaluation+%E2%9C%A8;Turning+slow%2C+fragile+code+into+fast%2C+reliable+systems+%F0%9F%9A%80" alt="Typing SVG" />
