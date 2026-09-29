@@ -49,8 +49,8 @@ engineer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
-[![Gmail](https://img.shields.io/badge/Email-bhattaramvlsivasaimaniharshith%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattaramvlsivasaimaniharshith@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutikumari108/)
+[![Gmail](https://img.shields.io/badge/Email-shrutikumari4876%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutikumari4876@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shrutisurya108-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutisurya108)
 
 </div>
@@ -218,9 +218,9 @@ engineer = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutikumari108/)
 &nbsp;
-[![Email](https://img.shields.io/badge/-Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattaramvlsivasaimaniharshith@gmail.com)
+[![Email](https://img.shields.io/badge/-Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutikumari4876@gmail.com)
 
 <br/>
 
